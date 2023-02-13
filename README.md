@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation date: Feb. 12, 2023
+Project creation date: February 12 2023
+Author: Miki Miyake
